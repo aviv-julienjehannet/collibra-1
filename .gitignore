@@ -1,0 +1,15 @@
+# Git
+*.rej
+*.orig
+
+# IntelliJ
+.idea
+
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+
+# vim
+*.swp

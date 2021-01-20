@@ -1,0 +1,2 @@
+This repo includes software maintained by StreamSets, Inc.
+(http://www.streamsets.com/).
